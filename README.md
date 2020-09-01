@@ -1,4 +1,10 @@
 
+## Hola, I'm Tarek berkane 👋
+
+- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+- 🌱 I’m currently learning more about Django and Flutter.
+
+
 
 **Languages and Tools:**  
 
